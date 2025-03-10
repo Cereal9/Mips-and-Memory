@@ -1,14 +1,5 @@
 # MIPS and Memory Program
 
-## Author
-Cesar Real
-
-## Class Information
-**Course:** CSCE 320 - Computer Architecture  
-**Instructor:** Dr. Nwanze  
-**Due Date:** March 31, 2024  
-**Assignment:** MIPS and Memory Program  
-
 ## Description
 This MIPS assembly language program manipulates an array stored in memory by implementing several functions to:
 - Find the minimum and maximum values
